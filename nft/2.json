@@ -1,0 +1,25 @@
+{
+  "name": "Kirin Kingdom #2678",
+  "symbol": "KK",
+  "description": "Join the fabulous Kirin creatures to the Mikuko province and defend the Kingdom",
+  "seller_fee_basis_points": 670,
+  "image": "https://www.arweave.net/FX-S3VfaYPeTu_j0Tw3XQ7VoTVDg2OsVJCaHsAuZ3FM?ext=png",
+  "external_url": "kirin-kingdom.com",
+  "attributes": [
+    { "trait_type": "Backgrounds", "value": "Plain 4" },
+    { "trait_type": "Dragons", "value": "Silver" },
+    { "trait_type": "Body", "value": "Fireman Suit" },
+    { "trait_type": "Eyes", "value": "Clout Goggles" },
+    { "trait_type": "Head", "value": "Asian Cone Hat" },
+    { "trait_type": "Mouth", "value": "None" },
+    { "trait_type": "Accessories", "value": "Diamond Kirin Chain" }
+  ],
+  "collection": { "name": "Kirin Kingdom Genesis", "family": "Kirin Kingdom" },
+  "properties": {
+    "files": [{ "uri": "image.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      { "address": "Kirin8Kxg6WwYMAjSFC9GgABNa9KwECnWRt7V8fo6hz", "share": 100 }
+    ]
+  }
+}

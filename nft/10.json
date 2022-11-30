@@ -1,0 +1,37 @@
+{
+  "name": "DinoSol #568",
+  "symbol": "DINO",
+  "description": "DinoSols is a collection of the dopest, and I mean dopest MFin’ NFTs to roam the Solana Blockchain. ",
+  "seller_fee_basis_points": 750,
+  "image": "https://nftstorage.link/ipfs/QmVcgVvLWPnhc6eYzWmZYCSHDTqhD4qCV52AHgFAMkeFL2/998.png",
+  "external_url": "",
+  "collection": { "name": "DinoSols", "family": "LaunchMyNFT" },
+  "attributes": [
+    { "trait_type": "Background", "value": "Yellow-clouds" },
+    { "trait_type": "Skin", "value": "Orange" },
+    { "trait_type": "Clothing", "value": "Tie-Dye-Tee" },
+    { "trait_type": "Mouth", "value": "Cigarette" },
+    { "trait_type": "Eyes", "value": "Special-Agent" },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 1086,
+      "display_type": "number",
+      "max_value": 1111
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://nftstorage.link/ipfs/QmVcgVvLWPnhc6eYzWmZYCSHDTqhD4qCV52AHgFAMkeFL2/998.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Gs6opF7WTJ4eduLEC4FjcvHLbWt35sVQzTvGgc6NhC1c",
+        "share": 100
+      }
+    ]
+  }
+}

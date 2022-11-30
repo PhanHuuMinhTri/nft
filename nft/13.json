@@ -1,0 +1,24 @@
+{
+  "name": "Pizza Palz #2832",
+  "symbol": "PALZ",
+  "description": "5000 Pizza Palz making frens and eating za while earning $SAUCE for real life utility",
+  "seller_fee_basis_points": 1000,
+  "image": "https://shdw-drive.genesysgo.net/2s748U2QDJgTE2sv4mEZeiCtujgZVYJBQo1vSvx3HJnF/2832.png",
+  "external_url": "https://pizzapalz.wtf/",
+  "attributes": [
+    { "trait_type": "backgrounds", "value": "chinatown" },
+    { "trait_type": "bases", "value": "meatlovers" },
+    { "trait_type": "accessories", "value": "pepper" },
+    { "trait_type": "eyes", "value": "eyes" },
+    { "trait_type": "mouths", "value": "frown" },
+    { "trait_type": "hats", "value": "cowboyhat" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://shdw-drive.genesysgo.net/2s748U2QDJgTE2sv4mEZeiCtujgZVYJBQo1vSvx3HJnF/2832.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

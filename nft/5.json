@@ -1,0 +1,69 @@
+{
+    "name": "Smyth #35",
+    "symbol": "SYM",
+    "description": "Elite crew of builders, creators and doers on Solana",
+    "seller_fee_basis_points": 880,
+    "image": "https://metadata.smyths.io/35.png",
+    "external_url": "https://smyths.io/",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sapphire"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Salmon"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Archer"
+        },
+        {
+            "trait_type": "Armor",
+            "value": "Samurai"
+        },
+        {
+            "trait_type": "Belt",
+            "value": "Emerald King"
+        },
+        {
+            "trait_type": "Gauntlet",
+            "value": "Warrior"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blood"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "King"
+        },
+        {
+            "trait_type": "Type",
+            "value": "OG"
+        }
+    ],
+    "collection": {
+        "name": "Blocksmith Labs",
+        "family": "Blocksmith Labs"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://metadata.smyths.io/35.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+                "share": 10
+            },
+            {
+                "address": "BSLiqdvTiCLSkpRasjBBJQqNHRLuvp4vP2qyzKALjs9W",
+                "share": 90
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Kirin Kingdom #1875",
+  "symbol": "KK",
+  "description": "Join the fabulous Kirin creatures to the Mikuko province and defend the Kingdom",
+  "seller_fee_basis_points": 670,
+  "image": "https://www.arweave.net/XatGbXqMCE8KXRbiMdpq0q933UClRbAVaZN0Zu5tbuk?ext=png",
+  "external_url": "kirin-kingdom.com",
+  "attributes": [
+    { "trait_type": "Backgrounds", "value": "City Day" },
+    { "trait_type": "Dragons", "value": "Forest" },
+    { "trait_type": "Body", "value": "American Football" },
+    { "trait_type": "Eyes", "value": "Pirate" },
+    { "trait_type": "Head", "value": "Red Bandana" },
+    { "trait_type": "Mouth", "value": "None" },
+    { "trait_type": "Accessories", "value": "None" }
+  ],
+  "collection": { "name": "Kirin Kingdom Genesis", "family": "Kirin Kingdom" },
+  "properties": {
+    "files": [{ "uri": "image.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      { "address": "Kirin8Kxg6WwYMAjSFC9GgABNa9KwECnWRt7V8fo6hz", "share": 100 }
+    ]
+  }
+}

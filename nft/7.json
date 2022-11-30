@@ -1,0 +1,25 @@
+{
+  "name": "PUAYTOON LOOK UP #12",
+  "symbol": "PUAYTOON",
+  "description": "PUAYTOON LOOK UP #12 - Generated and deployed on LaunchMyNFT.",
+  "seller_fee_basis_points": 0,
+  "image": "https://nftstorage.link/ipfs/bafybeiev7bjx6bre3n2zr6ur3hmis5urc7i4fzpgos6l7cgvp3y5t2rwyq/12.jpg",
+  "external_url": "",
+  "collection": { "name": "PUAYTOON LOOK UP", "family": "LaunchMyNFT" },
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://nftstorage.link/ipfs/bafybeiev7bjx6bre3n2zr6ur3hmis5urc7i4fzpgos6l7cgvp3y5t2rwyq/12.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7nfSd516qh5Nvqh7yJRGSL9F56fCNZCthDJM52iwrLDD",
+        "share": 100
+      }
+    ]
+  }
+}

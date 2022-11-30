@@ -1,0 +1,36 @@
+{
+  "name": "Ohayo #3951",
+  "symbol": "OHY",
+  "description": "Ohayo is a community-focused project centered around virtual experience with 90s adventure pop-natural world connecting Web2 and Web3",
+  "seller_fee_basis_points": 500,
+  "external_url": "https://ohayokireisekai.com",
+  "image": "https://nftstorage.link/ipfs/bafybeifz27gle4gnqyp2fz3aufv633iia3qivamowj6l432qn4chezsrae/331.png",
+  "edition": 3951,
+  "attributes": [
+    { "trait_type": "Background", "value": "Light Moccasin" },
+    { "trait_type": "Skin", "value": "Human" },
+    { "trait_type": "Eyes", "value": "Doubt" },
+    { "trait_type": "Mouth", "value": "Triumph" },
+    { "trait_type": "Glasses", "value": "Round Black" },
+    { "trait_type": "Suit", "value": "Arctic Layered" },
+    { "trait_type": "Hair", "value": "Arctic Perm" },
+    { "trait_type": "Earrings", "value": "Double Black Hoop" },
+    { "trait_type": "Grain", "value": "Grain" }
+  ],
+  "collection": { "name": "Ohayo", "family": "OHY" },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://nftstorage.link/ipfs/bafybeifz27gle4gnqyp2fz3aufv633iia3qivamowj6l432qn4chezsrae/331.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HAyjN8LJW5FASpSmBZXkAP2xaqSk32eG8P5ioXQ8CdQC",
+        "share": 100
+      }
+    ]
+  }
+}

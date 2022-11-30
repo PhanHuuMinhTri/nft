@@ -1,0 +1,29 @@
+{
+  "name": "Matchday Challenge Pass #4026",
+  "symbol": "MDCPASS",
+  "description": "Matchday Challenge Pass: First Edition",
+  "external_url": "https://matchday.com",
+  "seller_fee_basis_points": 0,
+  "image": "https://bafybeidtoi455lpu4bwaerpvvwmve2c24n3vyy3ctqoqrn5cupvyh4yn2y.ipfs.nftstorage.link/0.png?ext=png",
+  "attributes": [
+    { "trait_type": "Year", "value": "2022" },
+    { "trait_type": "Edition", "value": "1" },
+    { "trait_type": "Claimed", "value": "False" }
+  ],
+  "collection": {
+    "name": "Matchday Challenge Pass",
+    "family": "Matchday Challenge Pass"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bafybeidtoi455lpu4bwaerpvvwmve2c24n3vyy3ctqoqrn5cupvyh4yn2y.ipfs.nftstorage.link/0.png?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      { "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA", "share": 100 }
+    ]
+  }
+}
