@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Rare" },
+    { "trait_type": "Background", "value": "Basic Purple Spotlight" },
+    { "trait_type": "Skin", "value": "Pale Red Pants" },
+    { "trait_type": "Eyes", "value": "Orange" },
+    { "trait_type": "Tattoo", "value": "Black Tribal" },
+    { "trait_type": "Sword", "value": "Paladin" },
+    { "trait_type": "Armor", "value": "Priest Brown" },
+    { "trait_type": "Gloves", "value": "Knight Purple" },
+    { "trait_type": "Hair", "value": "Army Brown" },
+    { "trait_type": "Special", "value": "Toxic" },
+    { "trait_type": "Mouth", "value": "Smile" },
+    { "trait_type": "Ears", "value": "Human" }
+  ],
+  "collection": { "family": "Synergy Land", "name": "Synergians" },
+  "description": "Collection from Synergy Land. This is Synergian #5147/8000",
+  "image": "https://www.arweave.net/XeDIcZGIs5kSH7Bt9B8zet2HH4WdmUTRxDZeNyFfQxA?ext=png",
+  "name": "Synergian #5147",
+  "properties": {
+    "category": "image",
+    "creators": [
+      { "address": "SNGeiSjEAXsbvjDHcWKHSpGK4Sur8aDfTHRz2rJ2hog", "share": 100 }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://www.arweave.net/XeDIcZGIs5kSH7Bt9B8zet2HH4WdmUTRxDZeNyFfQxA?ext=png"
+      }
+    ]
+  },
+  "seller_fee_basis_points": 500,
+  "symbol": ""
+}
